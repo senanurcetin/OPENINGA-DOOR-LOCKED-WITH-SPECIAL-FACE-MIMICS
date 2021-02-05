@@ -1,0 +1,8 @@
+This project, which was made to help this need, assigns the combination formed with the determined gestures as a password. 
+Then, face recognition and face recognition methodologies are used to enable people who know this password to unlock the door with the right combination.
+People who know the password can open the door, and the video record of the people who log in is stored. 
+Also, the interface structure we use in our project provides convenience to users.
+In addition, it offers ease of use to administrators who are authorized to change password and access records.
+
+
+This project was made by Senanur Çetin.

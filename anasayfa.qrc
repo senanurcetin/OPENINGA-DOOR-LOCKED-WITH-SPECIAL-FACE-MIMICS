@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>anasayfa.jpg</file>
+  </qresource>
+</RCC>

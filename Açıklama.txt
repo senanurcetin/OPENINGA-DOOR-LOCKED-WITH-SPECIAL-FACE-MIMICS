@@ -1,0 +1,7 @@
+Bu proje belirlenmiş mimikler ile oluşurulan kombinasyonu bir şifre olarak atanıp 
+bu şifreyi bilen insanların doğru kombinasyon ile kapı kilidini açması için yüz tanıma ve yüz tanıma metodolojileri kullanılmaktadır. 
+Şifreyi bilen kişiler kapıyı açabilmektedir ayrıca giriş yapan kişilerin görüntü kaydı tutulmaktadır.
+Ayrıca projemizde kullandığımız arayüz yapısı hem kullanıcılara hem de şifre değiştirme ve 
+kayıtlara erişebilme yetkisi olan yönetcilere kullanım kolaylığı sunmaktadır.
+
+Bu proje Senanur Çetin tarafından yapılmıştır.
